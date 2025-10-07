@@ -1,1 +1,6 @@
+<<<<<<< HEAD
  Hello , this is võ hoàng kha
+=======
+ xin chào , tôi là võ hoàng kha 
+>>>>>>> feature-update
+Conflict resolved on 07/10/2025
