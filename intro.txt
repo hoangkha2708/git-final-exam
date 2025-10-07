@@ -3,3 +3,9 @@ Tôi là Võ Hoàng Kha , sinh viên ngành công nghệ thông tin . hiện đa
 sở thích : lập trình , nghe nhạc, đá banh, 
 kỹ năng : sự dụng git và github , lập trình c#,python..., > intro.txt 
 phát triển bản thân 
+ Kế hoạch học tập :
+Ôn lại kiến thức về Git và GitHub để thành thạo thao tác nhóm.
+Học sâu về c#, python và WinForms để hoàn thiện dự án cá nhân và nhóm sắp tới
+Tìm hiểu thêm về SQL Server và tối ưu truy vấn.
+Nâng cao kỹ năng báo cáo và trình bày dự án.
+Luyện tập làm việc nhóm qua các project thực tế.
