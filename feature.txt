@@ -1,0 +1,5 @@
+Tính năng: Hiển thị Intro ở màn hình chính.
+- Mô tả: đọc nội dung README và render phần "Mục tiêu".
+- Điều kiện: nếu README thay đổi, intro cập nhật theo.
+- Kiểm thử: viết test giả lập thay đổi README.
+- Ghi chú: có thể thêm toggle bật/tắt tính năng.
